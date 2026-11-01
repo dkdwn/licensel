@@ -16,4 +16,4 @@ Thanks to all user and contributors
 
 ### License
 
-This project is ender [GPL-3.0](LICENSE.md) license.
+This project is ender [GPL-3.0](LICENSE) license.
