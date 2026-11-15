@@ -28,7 +28,7 @@ In emacs do `M-x package-vc-install RET https://github.com/dkdwn/licensel RET` a
 
 ## Contributing
 
-All contributions ar welcome, if you want to add a LICENSE, a feature or anything else don't hesitate.
+All contributions ar welcome, if you want to add a LICENSE, a feature or anything else don't hesitate. Read the [CONTRIBUTING GUIDE](CONTRIBUTING.md)
 
 ## Thanks
 
