@@ -7,6 +7,8 @@ Licensel is an Emacs package that allow developers to insert common LICENSE in t
 - OBSD
 - AGPL-3.0-only
 - Apache-2.0
+- Artistic-2.0
+- BlueOak-1.0.0
 - BSD-2-Clause
 - BSD-3-Clause
 - BSL-1.0
@@ -18,8 +20,12 @@ Licensel is an Emacs package that allow developers to insert common LICENSE in t
 - LGPL-2.1-only
 - LGPLG-3.0-only
 - MIT
+- MIT-0
 - MPL-2.0
+- MS-PL
 - Unlicense
+- UPL-1.0
+- WTFPL
 - Zlib
 
 ## Installation
